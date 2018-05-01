@@ -12,16 +12,15 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-          aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-          qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed
-          quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-          aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-          exercitationem ullam corporis suscipit laboriosam.
+        Dinosaurs are extinct today because they lacked opposable thumbs and the brainpower to build a space program.
+
+        The dreams of yesterday are the hopes of today and the reality of tomorrow.
+
+        The regret on our side is, they used to say years ago, we are reading about you in science class. Now they say, we are reading about you in history class.
+
+        Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next 10.
+
+        I believe every human has a finite number of heartbeats. I don't intend to waste any of mine
         </p>
         <div className="row">
           <div className="columns contact-details">
